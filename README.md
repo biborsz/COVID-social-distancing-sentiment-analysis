@@ -30,9 +30,10 @@ In attempting to answer these questions, our team build an easily accessible and
 
 View our [INTERACTIVE MAP](https://public.tableau.com/profile/bibor#!/vizhome/EmergencyDeclarations/WholeMappublish=yes). (Phase 1)
 
-To answer our current problem statement, social distancing appears to have an effict on reducing the rapid increase of new daily cases. At the moment we are not able to build a reliable statistical model that reflects trends that we have observed. The current sentiment on Twitter is relatively neutral. Times are rapidly changing; therefore sentiment is volatile with uncertainty towards state-mandates.
+To answer our current problem statement, at the moment we are not able to build a reliable statistical model that reflects trends that we have observed. The current sentiment on Twitter is relatively neutral. Times are rapidly changing; therefore sentiment is volatile with uncertainty towards state-mandates.
 
 Future ideas moving forward: 
 - Embedding an interactive GIS application (Phase 2)
 - Real-time sentiment analysis. Generating live sentiment analysis score. (Phase 2)
+- Increasing map information to include Per capita rates. (Phase 2)
 - Build a text-recognition system which will automatically download Executive Orders from state government websites. Transform PDF files into easily searchable text. Automatic information updates on the map, build a code to pull data from a tracker to output that same data onto the interactive map. (Phase 3)
