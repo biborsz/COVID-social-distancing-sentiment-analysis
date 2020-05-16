@@ -6,7 +6,7 @@ Living through a pandemic proposes unique challenges to data science. The Intern
 ## Executive Summary
 Our team began with defining and familiarizing ourselves with Executive Orders per state. We were able to hone in on the top keywords used in policies, in turn we used each keyword as a query when pulling in posts as our data from Twitter.
 
-**The words used are as follows:**
+**Keywords Used:**
 
 1. Business Closures
 2. Coronavirus
@@ -33,6 +33,6 @@ View our [INTERACTIVE MAP](https://public.tableau.com/profile/bibor#!/vizhome/Em
 To answer our current problem statement, social distancing appears to have an effict on reducing the rapid increase of new daily cases. At the moment we are not able to build a reliable statistical model that reflects trends that we have observed. The current sentiment on Twitter is relatively neutral. Times are rapidly changing; therefore sentiment is volatile with uncertainty towards state-mandates.
 
 Future ideas moving forward: 
-- Embedding an interactive GIS system GIS application (Phase 2)
+- Embedding an interactive GIS application (Phase 2)
 - Real-time sentiment analysis. Generating live sentiment analysis score. (Phase 2)
 - Build a text-recognition system which will automatically download Executive Orders from state government websites. Transform PDF files into easily searchable text. Automatic information updates on the map, build a code to pull data from a tracker to output that same data onto the interactive map. (Phase 3)
