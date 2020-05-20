@@ -28,7 +28,7 @@ We were successful in pulling 59,000+ posts from Twitter using a Twitter wrapper
 
 In attempting to answer these questions, our team build an easily accessible and interpretable system that compiles relevant information in real time and reduces it into digestible pieces
 
-View our [INTERACTIVE MAP](https://public.tableau.com/profile/bibor#!/vizhome/EmergencyDeclarations/WholeMappublish=yes). (Phase 1)
+View our [INTERACTIVE MAP](https://public.tableau.com/profile/bibor#!/vizhome/COVID-19_15899821421350/FullyInteractive). (Phase 1)
 
 To answer our current problem statement, at the moment we are not able to build a reliable statistical model that reflects trends that we have observed. The current sentiment on Twitter is relatively neutral. Times are rapidly changing; therefore sentiment is volatile with uncertainty towards state-mandates.
 
