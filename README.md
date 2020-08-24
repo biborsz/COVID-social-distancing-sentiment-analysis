@@ -1,4 +1,4 @@
-# Client Project 
+# How do people react to social distancing in the U.S.?
 
 ## Problem Statement
 Living through a pandemic proposes unique challenges to data science. The Internet contains a wealth of information about how society reacts to a dangerous and stressful situation as a whole, as well as a multitude of individuals. From the prospect of the individual who tries to make sense of the rapidly changing trends and events, this wealth of information can easily turn into the source of misunderstanding and fear. Some states have enacted strictly enforced stay-at-home policies, while others have provided general guidelines. Do stay-at-home policies prevent increases in positive cases? In comparing regional responses to COVID-19, what is the general public sentiment in response to state policies? 
