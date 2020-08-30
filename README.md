@@ -22,7 +22,7 @@ Our team began with defining and familiarizing ourselves with Executive Orders p
 12. State Mandates
 13. Governor
 
-We were successful in pulling 59,000+ posts from Twitter using a Twitter wrapper called GetOldTweets3 (https://pypi.org/project/GetOldTweets3/). The parameters we used were: "query_term" (keyword), "date" (February 2020 - May 10, 2020), "state", and "text" (post). We were able to run a sentiment analysis with our collected data. 
+We were successful in pulling 59,000+ posts from Twitter using a Twitter wrapper called [GetOldTweets3](https://pypi.org/project/GetOldTweets3/). The parameters we used were: "query_term" (keyword), "date" (February 2020 - May 10, 2020), "state", and "text" (post). We were able to run a sentiment analysis with our collected data. 
 
 *Disclaimer: at the present time this Twitter wrapper (GetOldTweets3) is not able to pull geo data.
 
