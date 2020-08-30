@@ -38,4 +38,4 @@ Future ideas moving forward:
 - Increasing map information to include Per capita rates. (Phase 2)
 - Build a text-recognition system which will automatically download Executive Orders from state government websites. Transform PDF files into easily searchable text. Automatic information updates on the map, build a code to pull data from a tracker to output that same data onto the interactive map. (Phase 3)
 
-**[Presentation]**(Client Project #5.pdf)
+[Presentation](Client Project #5.pdf)
